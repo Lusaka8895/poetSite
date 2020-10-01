@@ -71,4 +71,6 @@ This project was deployed to GitHub pages
  
 ## Images and Media:
  * provided by Victoria Kennefick and youtube.com
+ 
+ This is a website made using html,css and javascript.
 
